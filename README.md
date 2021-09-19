@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChronicalCoding
-- 👀 I’m interested in Coding Games with Unity and Software for Gamers
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m interested in OS Dev and Language Creating
+- 🌱 I’m currently learning C# and Python
